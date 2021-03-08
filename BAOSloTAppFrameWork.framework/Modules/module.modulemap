@@ -1,0 +1,6 @@
+framework module BAOSloTAppFrameWork {
+  umbrella header "BAOSloTAppFrameWork.h"
+
+  export *
+  module * { export * }
+}
